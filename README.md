@@ -1,4 +1,4 @@
-# Kidizz test 1
+# Typescript BuildAvatarUrl
 
 Ce projet contient la fonction `buildAvatarUrl` qui génère des URLs d'avatar basées sur les initiales d'un nom.
 
